@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXa3ZBtAA9njQ7AhY7NvTrc25DrhsqPGGjRBVLgDAJKVsI4JLWOTS8rb2O0wBTqlikR/A0Z52ho85UZ+t4OsRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\dotnet projects\\SyncToCloud\\SyncToCloud\\SyncToCloud\\SyncToCloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
