@@ -28,5 +28,10 @@ namespace SyncToCloud.Views
             base.OnAppearing();
             _viewModel.OnAppearing();
         }
+
+        void DestinationGoogleDrive(object sender,EventArgs args)
+        {
+            int i;
+        }
     }
 }
